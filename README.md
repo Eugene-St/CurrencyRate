@@ -91,7 +91,7 @@ You can switch this value in `AppConstants.swift`.
 <img width="362" alt="Screenshot 2025-04-16 at 21 37 49" src="https://github.com/user-attachments/assets/aec49914-396a-4881-bbde-fb28d05f09c7" />
 <img width="362" alt="Screenshot 2025-04-16 at 21 37 52" src="https://github.com/user-attachments/assets/dd63ca8b-5c30-4508-a4be-444d5a9d84f3" />
 <img width="362" alt="Screenshot 2025-04-16 at 21 38 02" src="https://github.com/user-attachments/assets/53276407-fa30-4e7c-ac60-6a03de23795d" />
-<img width="362" alt="Screenshot 2025-04-16 at 21 46 15" src="https://github.com/user-attachments/assets/2f9e0e8c-5d37-49f0-a9e7-92c76768f8d1" />
+<img width="362" alt="Screenshot 2025-04-16 at 21 47 05" src="https://github.com/user-attachments/assets/5bb37be5-3ab5-4ed8-893b-2ee0869cbfb0" />
 
 ---
 
